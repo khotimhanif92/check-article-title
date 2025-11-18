@@ -1,0 +1,5 @@
+flask==2.3.2
+sentence-transformers==2.2.2
+torch==2.2.0
+transformers==4.35.2
+gunicorn==21.2.0
